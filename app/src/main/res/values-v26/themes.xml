@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="operatorimageback" parent="commonbutton">
+        <item name="icon">@drawable/baseline_backspace_24</item>
+        <item name="android:iconTint">@color/btnBackground2</item>
+    </style>
+</resources>
