@@ -1,3 +1,3 @@
-### Статус - завершен
+### Status - production 
 # kotlin-calculator
 Kotlin calculator android
